@@ -10,5 +10,7 @@ We deployed another contract (Bucket), to whom we will be sending shire token.
 It can be done via `npx hardhat run scripts/drop-tokens.js --network sepolia` command in terminal.
 
 Here are addresses of contracts:
+
 Shire - 0x6df8FFbFF0726c372892eae72CE1993dB159CA22  
+
 Bucket - 0x50542D49bB36dBC410cC21308BFA1eF3922B9dF6  
